@@ -8,4 +8,7 @@ A la hora de gestionar un calendario en una peluquería puede llegar a ser muy t
 
 Por todo ello se quiere desarrollar una aplicación que tenga en cuenta estas "reglas" y que se encargue de llevar la gestión de este calendario de la forma más óptima posible, haciendo así la peluquería más eficiente y por lo tanto más rentable. En la aplicación los cliente que quieren ir a la peluquería solicitarán una cita (estos mismo clientes pueden añadir alguna condición, como por ejemplo solo pueden ir por la tarde), y el sistema les devolverá la cita ya ajustada al calendario.
 
+
+[Configuración git](./Docs/conf.md)
+
 [Licencia](./LICENSE)
